@@ -9,6 +9,10 @@
 <body>
 
 <div class = "alert alert-success">Success! Well done its submitted.</div>
+<? php 
 
+include("conn.php");
+echo "raj";
+?>
 </body>
 </html>
